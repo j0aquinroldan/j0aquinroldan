@@ -3,7 +3,7 @@
 
 Desarrollador backend con conocimientos en **Java**, **Kotlin** y **Spring Boot**, enfocado en la construcción de APIs. 
 Actualmente me encuentro próximo a finalizar la **Tecnicatura Universitaria en Programación Informática** en la Universidad Nacional de Quilmes.
-Siempre buscando aplicar lo que aprendo y aprender lo que no sé.
+Buscando mi primera experiencia profesional en desarrollo backend.
 
 ---
 
